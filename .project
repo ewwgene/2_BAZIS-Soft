@@ -1,7 +1,7 @@
 {
     "date": ["2017.07", "2018.07"],
-    "hardware": ["CNC MILLING", "SCAN", "PLASTER"],
-    "software": ["STUDIO ARTIST", "RHINOCEROS 3D + GRASSHOPPER", "CIMCO EDIT", "INKSCAPE"],
+    "hardware": ["CNC_MILLING", "SCAN", "PLASTER"],
+    "software": ["STUDIO_ARTIST", "RHINOCEROS_3D_+_GRASSHOPPER", "CIMCO_EDIT", "INKSCAPE"],
     "overview": "",
     "making": ""
 }
