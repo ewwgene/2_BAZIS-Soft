@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### Trash_S6-CONCEPT. — _DESIGN SERIES._
+# [ewwgene.github.io /](https://ewwgene.github.io/) Trash_S6-CONCEPT
+
 [![Trash_S6-CONCEPT](/100.jpg)](https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel)<a id="101" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#101"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/101.jpg" height="66"></a> <a id="102" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#102"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/102.jpg" height="66"></a> <a id="103" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#103"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/103.jpg" height="66"></a> <a id="text">&#160;</a>
 
 [_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
@@ -17,3 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="301" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#301"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#303"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/303.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#305"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/305.jpg" height="66"></a> <a id="401" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#401"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/401.jpg" height="66"></a> <a id="403" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#403"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/403.jpg" height="66"></a> <a id="405" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#405"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/405.jpg" height="66"></a> <a id="407" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#407"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/407.jpg" height="66"></a> 
 
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
+
+### [ABOUT/](https://ewwgene.github.io/) 

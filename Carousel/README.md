@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### [Trash_S6-CONCEPT. — _DESIGN SERIES._](https://ewwgene.github.io/Trash_S6-CONCEPT)
+# [ewwgene.github.io /](https://ewwgene.github.io/) [Trash_S6-CONCEPT /](https://ewwgene.github.io/Trash_S6-CONCEPT)
+
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Trash_S6-CONCEPT/100.jpg)
 <a id="101"></a> ![101.jpg](https://ewwgene.github.io/Trash_S6-CONCEPT/101.jpg)
 <a id="102"></a> ![102.jpg](https://ewwgene.github.io/Trash_S6-CONCEPT/102.jpg)
@@ -23,3 +23,5 @@
 <a id="405"></a> ![405.jpg](https://ewwgene.github.io/Trash_S6-CONCEPT/405.jpg)
 <a id="407"></a> ![407.jpg](https://ewwgene.github.io/Trash_S6-CONCEPT/407.jpg)
 
+
+### [ABOUT/](https://ewwgene.github.io/) 
