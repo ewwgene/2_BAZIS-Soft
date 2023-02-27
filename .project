@@ -1,6 +1,6 @@
 {
     "date": ["2017.07", "2018.07"],
-    "medium": ["DESIGN SERIES", "SCULPTURE"],
+    "medium": ["ART", "PATTERN"],
     "material": ["SOLID_PINE_WOOD", "PLASTER"],
     "hardware": ["CNC_MILLING", "SCAN", "PLASTER"],
     "software": ["STUDIO_ARTIST", "RHINOCEROS_3D_+_GRASSHOPPER", "CIMCO_EDIT", "INKSCAPE"],

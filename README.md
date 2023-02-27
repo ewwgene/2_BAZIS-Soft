@@ -1,21 +1,21 @@
 
-# [ewwgene.github.io /](https://ewwgene.github.io/) Trash_S6-CONCEPT
+# [ewwgene.github.io /](https://ewwgene.github.io/) [_ART_ /](https://ewwgene.github.io/ART) Trash_S6-CONCEPT
 
 [![Trash_S6-CONCEPT](/100.jpg)](https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel)<a id="101" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#101"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/101.jpg" height="66"></a> <a id="102" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#102"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/102.jpg" height="66"></a> <a id="103" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#103"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/103.jpg" height="66"></a> <a id="text">&#160;</a>
 
-[_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
+_`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Making — _2017.07-2018.07._
 <a id="309m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#309m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/309.jpg" height="66"></a> <a id="407m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#407m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/407.jpg" height="66"></a> <a id="411m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#411m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/411.jpg" height="66"></a> <a id="413m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#413m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/413.jpg" height="66"></a> <a id="415m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#415m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/415.jpg" height="66"></a> <a id="417m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#417m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/417.jpg" height="66"></a> <a id="613m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#613m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/613.jpg" height="66"></a> <a id="614m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#614m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/614.jpg" height="66"></a> <a id="615m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#615m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/615.jpg" height="66"></a> <a id="617m" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#617m"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/Making/617.jpg" height="66"></a>  
 
-[_`STUDIO_ARTIST`_](https://ewwgene.github.io) [_`RHINOCEROS_3D_+_GRASSHOPPER`_](https://ewwgene.github.io) [_`CIMCO_EDIT`_](https://ewwgene.github.io) [_`INKSCAPE`_](https://ewwgene.github.io)  [_**`CNC_MILLING`**_](https://ewwgene.github.io) [_**`SCAN`**_](https://ewwgene.github.io) [_**`PLASTER`**_](https://ewwgene.github.io) 
+_`STUDIO_ARTIST`_ _`RHINOCEROS_3D_+_GRASSHOPPER`_ _`CIMCO_EDIT`_ _`INKSCAPE`_  _**`CNC_MILLING`**_ _**`SCAN`**_ _**`PLASTER`**_ 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <a id="301" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#301"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#303"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/303.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#305"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/305.jpg" height="66"></a> <a id="401" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#401"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/401.jpg" height="66"></a> <a id="403" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#403"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/403.jpg" height="66"></a> <a id="405" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#405"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/405.jpg" height="66"></a> <a id="407" href="https://ewwgene.github.io/Trash_S6-CONCEPT/Carousel/#407"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/407.jpg" height="66"></a> 
 
-[_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
-
-### [ABOUT/](https://ewwgene.github.io/) 
+_`ART`_ _`PATTERN`_ 
+### [ABOUT /](https://ewwgene.github.io/ABOUT)
+### [MAIL_TO:](mailto:r0cam@me.com)
