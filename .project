@@ -1,9 +1,9 @@
 {
     "date": ["2017.07", "2018.07"],
     "medium": ["ART", "PATTERN"],
-    "material": ["SOLID_PINE_WOOD", "PLASTER"],
+    "material": "",
     "hardware": ["CNC_MILLING", "SCAN", "PLASTER"],
-    "software": ["STUDIO_ARTIST", "RHINOCEROS_3D_+_GRASSHOPPER", "CIMCO_EDIT", "INKSCAPE"],
-    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "making": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "software": ["STUDIO_ARTIST", "RHINOCEROS_3D", "GRASSHOPPER", "CIMCO_EDIT", "INKSCAPE"],
+    "overview": "Паттерн для _Society6_. Для печати на ткани, мебельных панелях, столешницах и фасадах. ",
+    "making": "Варианты компановки сгенерированы различными алгоритмами _`STUDIO_ARTIST`_.<br> Одно из использований - фрезеровка малой глубины на поверхности с созданием _Управляющей Программы_ для станка ЧПУ при помощи алгоритма [Grasshopper_G-Code](https://ewwgene.github.io/Grasshopper_G-Code)."
 }
