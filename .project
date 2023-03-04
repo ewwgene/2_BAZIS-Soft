@@ -5,5 +5,5 @@
     "hardware": ["CNC_MILLING", "SCAN", "PLASTER"],
     "software": ["STUDIO_ARTIST", "RHINOCEROS_3D", "GRASSHOPPER", "CIMCO_EDIT", "INKSCAPE"],
     "overview": "Паттерн для _Society6_. Для печати на ткани, мебельных панелях, столешницах и фасадах. ",
-    "making": "Варианты компановки сгенерированы различными алгоритмами _`STUDIO_ARTIST`_.<br> Одно из использований - фрезеровка малой глубины на поверхности с созданием _Управляющей Программы_ для станка ЧПУ при помощи алгоритма [Grasshopper_G-Code](https://ewwgene.github.io/Grasshopper_G-Code)."
+    "making": "Варианты компановки сгенерированы различными алгоритмами _`STUDIO_ARTIST`_.<br> Одно из использований - фрезеровка малой глубины на поверхности с созданием _Управляющей Программы_ для станка c ЧПУ c помощью алгоритма [Grasshopper_G-Code](https://ewwgene.github.io/Grasshopper_G-Code)."
 }
