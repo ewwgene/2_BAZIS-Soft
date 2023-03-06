@@ -21,4 +21,5 @@ _`ART`_ _`PATTERN`_
 <br> 
 
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
+### [@ewwgene__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)
 ### [MAIL_TO:](mailto:r0cam@me.com)
